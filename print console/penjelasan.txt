@@ -1,0 +1,15 @@
+#include = mengambil file / mengimport file ke dalam file main.cpp
+<iostrem> = file yang di import
+
+using namespace std = mempersingkat penulisan (example: std::cout menjadi cout)
+
+declaration function main
+int main() { 
+	(body function)
+}
+
+std = fungsi yang dapat dari file iostream
+std::cout = (console output) mengeprint di console
+std::endl = (end line) mengakhiri baris/ membuat baris baru
+std::cin.get() = (console input) mengambil input dari console
+\n = new line
