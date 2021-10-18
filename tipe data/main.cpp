@@ -16,8 +16,12 @@ int main() {
 	// character
 	char f = 'f'; // 1 byte / 8 bit
 
-	// boolean
+	// boolean (true / false)
 	bool g = true; // 1 byte / 8 bit
+	/*
+		1 = true
+		0 = false
+	*/
 
 
 	cout << a << endl;
