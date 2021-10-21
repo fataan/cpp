@@ -3,16 +3,6 @@
 
 using namespace std;
 
-int main(){
-
-	int a = 2;
-	int b = 10;
-
-	cout << "nilai terbesar dari " << a << " dan " << b << " adalah " << fmax(a,b) << endl;
-
-	return 0;
-} 
-
 /*
 	kenapa harus menggunakan function ?
 
@@ -27,6 +17,16 @@ int main(){
 	- function return dapat mengembalikan nilai sesuai dengan tipe datanya.
 	- function voind tidak dapat mengembalikan nilai.
 */
+
+int main(){
+
+	int a = 2;
+	int b = 10;
+
+	cout << "nilai terbesar dari " << a << " dan " << b << " adalah " << fmax(a,b) << endl;
+
+	return 0;
+}
 
 /*
 	reference standar library cpp
